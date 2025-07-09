@@ -1,0 +1,11 @@
+# config.yaml
+ocr:
+  tesseract_path: "C:\\Program Files\\Tesseract-OCR\\tesseract.exe"
+  default_dpi: 300
+chunking:
+  chunk_size: 500
+  overlap: 100
+  min_chunk_size: 100
+embedding:
+  model_name: "sentence-transformers/all-MiniLM-L6-v2"
+  batch_size: 32
