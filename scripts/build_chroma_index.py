@@ -168,7 +168,7 @@ def main():
     
     # Find chunks file
     if os.path.exists('text_chunks.pkl'):
-        chunks_path = 'text_chunks.pkl'
+        chunks_path = ('text_chunks_cleaned.pkl')
     elif os.path.exists('rag_output/text_chunks.pkl'):
         chunks_path = 'rag_output/text_chunks.pkl'
     else:
