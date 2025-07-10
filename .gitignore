@@ -24,3 +24,11 @@ logs/
 
 # Keep the PDF
 !scheft_2025_manual.pdf
+# Chroma artifacts
+data/chroma/**
+
+# Old output folder
+rag_output/**
+
+# Remove old FAISS
+*.faiss

@@ -228,7 +228,7 @@ Query logs can be disabled for operational security
 
 🙏 Acknowledgments
 
-John M. Scheft - Author of the source manual
+John S. Scheft - Author of the source manual
 Massachusetts HRD - For mandating comprehensive training materials
 OpenAI - For GPT-4 and embedding models
 Chroma - For the vector database
